@@ -1,0 +1,7 @@
+{
+  "version": "v3_production",
+  "area": {"file": "area_model.joblib", "log_transform": true, "mape": 3.37},
+  "setup": {"file": "setup_model.joblib", "log_transform": false, "r2": 0.7176},
+  "dynamic": {"file": "dynamic_model.joblib", "log_transform": false, "mape": 26.30},
+  "leakage": {"file": "leakage_model.joblib", "log_transform": true, "mape": 12.61}
+}
